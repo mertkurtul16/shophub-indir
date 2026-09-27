@@ -8,15 +8,15 @@ E-ticaret komuta merkezi: Trendyol ürün araştırması, Shopify mağaza kurulu
 
 | Bilgisayar | Dosya |
 |---|---|
-| Windows 10 / 11 | `ShopHUB-Kurulum-1.1.0.exe` |
-| Mac — Apple M1 / M2 / M3 / M4 | `ShopHUB-1.1.0-mac-arm64.dmg` |
-| Mac — Intel işlemci | `ShopHUB-1.1.0-mac-x86_64.dmg` |
+| Windows 10 / 11 | [ShopHUB-Windows-Kurulum.exe](https://github.com/mertkurtul16/shophub-indir/releases/latest/download/ShopHUB-Windows-Kurulum.exe) |
+| Mac — Apple M1 / M2 / M3 / M4 | [ShopHUB-Mac-AppleSilicon.dmg](https://github.com/mertkurtul16/shophub-indir/releases/latest/download/ShopHUB-Mac-AppleSilicon.dmg) |
+| Mac — Intel işlemci | [ShopHUB-Mac-Intel.dmg](https://github.com/mertkurtul16/shophub-indir/releases/latest/download/ShopHUB-Mac-Intel.dmg) |
 
-Mac'inin hangisi olduğunu öğrenmek için:  → **Bu Mac Hakkında**. "Apple M…" yazıyorsa arm64, "Intel" yazıyorsa x86_64.
+Mac'inin hangisi olduğunu öğrenmek için:  → **Bu Mac Hakkında**. "Apple M…" yazıyorsa Apple Silicon, "Intel" yazıyorsa Intel dosyasını indir.
 
 ## Windows kurulumu
 
-1. `ShopHUB-Kurulum-1.1.0.exe` dosyasını çalıştır.
+1. `ShopHUB-Windows-Kurulum.exe` dosyasını çalıştır.
 2. "Windows kişisel bilgisayarınızı korudu" uyarısı çıkarsa: **Ek bilgi** → **Yine de çalıştır**.
 3. Kurulum bitince ShopHUB açılır ve kurulum sihirbazı eksik programları kendisi kurar.
 
